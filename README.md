@@ -24,9 +24,7 @@ I will update this screen record once I find another better recorder ：（
 <img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images/testing.jpeg" width="300">
 
 ### output:
-<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_1.png" width="80">
-<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_2.png" width="60">
-<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_3.png" width="70">
+<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_1.png" width="80"> <img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_2.png" width="60"><img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_3.png" width="70">
 
 
 ## TODO:
