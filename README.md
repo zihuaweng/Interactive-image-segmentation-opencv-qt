@@ -1,4 +1,4 @@
-# image-matting-opencv-qt
+# image-matting-opencv-qt V-1.0
 ## 使用opencv进行交互式抠图
 This is a simple interactive image matting app written by python opencv and pyqt.
 
