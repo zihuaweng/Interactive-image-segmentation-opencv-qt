@@ -20,7 +20,9 @@ python app.py
 I will update this screen record once I find another better recorder ：（
 ![Performence of app](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/results.gif)
 
-## Result images:
+### input:
+![input](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images/testing.jpeg)
+### output:
 ![result_1](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_1.png)
 ![result_2](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_2.png)
 ![result_3](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_3.png)
