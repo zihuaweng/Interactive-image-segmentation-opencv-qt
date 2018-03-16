@@ -21,11 +21,11 @@ I will update this screen record once I find another better recorder ：（
 ![Performence of app](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/results.gif)
 
 ### input:
-![input](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images/testing.jpeg)
+<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images/testing.jpeg" width="300">
 ### output:
-![result_1](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_1.png)
-![result_2](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_2.png)
-![result_3](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_3.png)
+<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_1.png" width="80">
+<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_2.png" width="60">
+<img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_3.png" width="70">
 
 
 ## TODO:
