@@ -11,7 +11,7 @@ This is a simple interactive image matting app written by python opencv and pyqt
 python app.py
 
 ## Result:
-![Performence of app](http://zihuaweng.github.io/post_images/RCNN/RCNN_worflow.pnggif)
+![Performence of app](http://image-matting-opencv-qt/results.gif)
 
 ## TODO:
 - Auto resize images in mainwindow according to mouse movement
