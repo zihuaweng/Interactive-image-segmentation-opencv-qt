@@ -22,6 +22,7 @@ I will update this screen record once I find another better recorder ：（
 
 ### input:
 <img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images/testing.jpeg" width="300">
+
 ### output:
 <img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_1.png" width="80">
 <img src="https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/testing_images_out/testing_2.png" width="60">
