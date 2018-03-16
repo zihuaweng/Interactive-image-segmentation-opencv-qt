@@ -16,6 +16,7 @@ The gui part is mostly from this great work [labelImg](https://github.com/tzutal
 python app.py
 
 ## Result:
+I will update this screen record once I find another better recorder ：（
 ![Performence of app](https://github.com/zihuaweng/image-matting-opencv-qt/blob/master/results.gif)
 
 ## TODO:
