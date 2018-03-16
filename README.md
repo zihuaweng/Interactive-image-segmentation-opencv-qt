@@ -24,6 +24,7 @@ I will update this screen record once I find another better recorder ：（
 - Auto resize images in mainwindow according to mouse movement
 - Image item switch
 - Rec edit and auto matting
+- Show only one Rec every selection
 
 
 
